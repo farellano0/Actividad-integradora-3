@@ -1,0 +1,71 @@
+{
+  "testimonios": [
+    {
+      "id": 1,
+      "nombre": "María Elena García",
+      "edad": 72,
+      "ubicacion": "Ciudad de México",
+      "foto": "https://images.unsplash.com/photo-1581579438747-1dc8d17bbce4?w=200",
+      "testimonio": "Nunca pensé que a mis 72 años aprendería a usar WhatsApp. Mi nieta tuvo mucha paciencia conmigo y ahora puedo ver las fotos de mis bisnietos todos los días. La tecnología me ha acercado a mi familia de una manera que nunca imaginé.",
+      "logro": "Ahora realiza videollamadas semanales con su familia en Estados Unidos",
+      "fechaAprendizaje": "2023"
+    },
+    {
+      "id": 2,
+      "nombre": "Roberto Hernández",
+      "edad": 68,
+      "ubicacion": "Guadalajara, Jalisco",
+      "foto": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=200",
+      "testimonio": "Al principio tenía mucho miedo de 'descomponer' el celular. Gracias al taller de alfabetización digital de mi centro comunitario, perdí ese miedo. Ahora hasta hago mis pagos en línea y me siento más independiente.",
+      "logro": "Realiza trámites bancarios y pagos de servicios desde su celular",
+      "fechaAprendizaje": "2023"
+    },
+    {
+      "id": 3,
+      "nombre": "Carmen Jiménez",
+      "edad": 75,
+      "ubicacion": "Monterrey, Nuevo León",
+      "foto": "https://images.unsplash.com/photo-1566616213894-2d4e1baee5d8?w=200",
+      "testimonio": "Mi hijo me regaló una tablet y no sabía ni cómo encenderla. Un joven voluntario me enseñó con mucha calma. Hoy leo el periódico todas las mañanas en mi tablet y veo recetas de cocina en YouTube.",
+      "logro": "Creó su propio canal de recetas tradicionales mexicanas",
+      "fechaAprendizaje": "2022"
+    },
+    {
+      "id": 4,
+      "nombre": "José Luis Morales",
+      "edad": 70,
+      "ubicacion": "Puebla",
+      "foto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200",
+      "testimonio": "Fui maestro toda mi vida y pensé que ya no podía aprender nada nuevo. Qué equivocado estaba. Aprender a usar la computadora me abrió un mundo de posibilidades. Ahora doy clases de historia local por Zoom.",
+      "logro": "Imparte clases virtuales de historia a estudiantes de secundaria",
+      "fechaAprendizaje": "2023"
+    },
+    {
+      "id": 5,
+      "nombre": "Rosa María López",
+      "edad": 78,
+      "ubicacion": "Mérida, Yucatán",
+      "foto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200",
+      "testimonio": "La pandemia me obligó a aprender. Al principio fue muy difícil, pero mis vecinos más jóvenes me ayudaron. Ahora no solo sé usar el celular, sino que ayudo a otras personas de mi edad a aprender también.",
+      "logro": "Se convirtió en voluntaria digital para enseñar a otros adultos mayores",
+      "fechaAprendizaje": "2021"
+    },
+    {
+      "id": 6,
+      "nombre": "Fernando Castro",
+      "edad": 65,
+      "ubicacion": "Querétaro",
+      "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+      "testimonio": "Mis hijos viven lejos y me sentía muy solo. Aprender a usar las redes sociales me permitió reconectarme con amigos de la infancia y la juventud. Ya no me siento aislado, tengo una comunidad virtual que me acompaña.",
+      "logro": "Administra un grupo de Facebook de exalumnos con más de 200 miembros",
+      "fechaAprendizaje": "2022"
+    }
+  ],
+  "estadisticas": {
+    "adultosMayoresCapacitados": 1250,
+    "voluntariosActivos": 89,
+    "talleresRealizados": 156,
+    "comunidadesAlcanzadas": 45
+  }
+}
+

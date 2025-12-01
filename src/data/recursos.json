@@ -1,0 +1,107 @@
+{
+  "articulos": [
+    {
+      "id": 1,
+      "titulo": "Cómo enseñar tecnología a adultos mayores: Guía práctica",
+      "descripcion": "Estrategias pedagógicas efectivas para facilitar el aprendizaje tecnológico en personas de la tercera edad, considerando sus necesidades específicas y ritmos de aprendizaje.",
+      "imagen": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400",
+      "categoria": "articulo",
+      "enlace": "#",
+      "fecha": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "titulo": "La importancia de la paciencia en la alfabetización digital",
+      "descripcion": "Descubre por qué la paciencia es la herramienta más valiosa cuando acompañamos a adultos mayores en su camino hacia la inclusión digital.",
+      "imagen": "https://images.unsplash.com/photo-1581579438747-1dc8d17bbce4?w=400",
+      "categoria": "articulo",
+      "enlace": "#",
+      "fecha": "2024-02-20"
+    },
+    {
+      "id": 3,
+      "titulo": "Superando el miedo a la tecnología",
+      "descripcion": "Técnicas comprobadas para ayudar a personas mayores a superar la ansiedad tecnológica y ganar confianza en el uso de dispositivos digitales.",
+      "imagen": "https://images.unsplash.com/photo-1556745757-8d76bdb6984b?w=400",
+      "categoria": "articulo",
+      "enlace": "#",
+      "fecha": "2024-03-10"
+    }
+  ],
+  "infografias": [
+    {
+      "id": 4,
+      "titulo": "10 pasos para usar WhatsApp",
+      "descripcion": "Guía visual paso a paso para que los adultos mayores aprendan a usar WhatsApp de manera sencilla y segura.",
+      "imagen": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400",
+      "categoria": "infografia",
+      "enlace": "#"
+    },
+    {
+      "id": 5,
+      "titulo": "Seguridad en Internet para mayores",
+      "descripcion": "Consejos visuales sobre cómo protegerse de fraudes y estafas en línea, con ejemplos claros y acciones preventivas.",
+      "imagen": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400",
+      "categoria": "infografia",
+      "enlace": "#"
+    },
+    {
+      "id": 6,
+      "titulo": "Anatomía de un smartphone",
+      "descripcion": "Infografía que explica las partes básicas de un teléfono inteligente y sus funciones principales.",
+      "imagen": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400",
+      "categoria": "infografia",
+      "enlace": "#"
+    }
+  ],
+  "videos": [
+    {
+      "id": 7,
+      "titulo": "Tutorial: Videollamadas con la familia",
+      "descripcion": "Aprende a realizar videollamadas con tus seres queridos usando diferentes aplicaciones de manera fácil.",
+      "imagen": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=400",
+      "categoria": "video",
+      "enlace": "https://youtube.com",
+      "duracion": "12:45"
+    },
+    {
+      "id": 8,
+      "titulo": "Cómo buscar información en Google",
+      "descripcion": "Video explicativo sobre cómo realizar búsquedas efectivas en Internet para encontrar la información que necesitas.",
+      "imagen": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=400",
+      "categoria": "video",
+      "enlace": "https://youtube.com",
+      "duracion": "8:30"
+    }
+  ],
+  "guias": [
+    {
+      "id": 9,
+      "titulo": "Manual del acompañante digital",
+      "descripcion": "Guía completa para docentes y familiares que desean apoyar a adultos mayores en su proceso de alfabetización tecnológica.",
+      "imagen": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400",
+      "categoria": "guia",
+      "enlace": "#",
+      "paginas": 45
+    },
+    {
+      "id": 10,
+      "titulo": "Primeros pasos con el celular",
+      "descripcion": "Guía descargable con ejercicios prácticos para que los adultos mayores se familiaricen con su teléfono móvil.",
+      "imagen": "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?w=400",
+      "categoria": "guia",
+      "enlace": "#",
+      "paginas": 28
+    },
+    {
+      "id": 11,
+      "titulo": "Redes sociales sin complicaciones",
+      "descripcion": "Guía paso a paso para crear y administrar perfiles en redes sociales de manera segura y sencilla.",
+      "imagen": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=400",
+      "categoria": "guia",
+      "enlace": "#",
+      "paginas": 32
+    }
+  ]
+}
+

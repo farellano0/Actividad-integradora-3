@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+/* Fuentes de Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+/* Tema personalizado con CSS custom properties */
+@theme {
+  /* Colores cálidos del proyecto */
+  --color-naranja-50: #FFF7ED;
+  --color-naranja-100: #FFEDD5;
+  --color-naranja-200: #FED7AA;
+  --color-naranja-300: #FDBA74;
+  --color-naranja-400: #FB923C;
+  --color-naranja-500: #F97316;
+  --color-naranja-600: #EA580C;
+  
+  --color-verde-50: #F0FDF4;
+  --color-verde-100: #DCFCE7;
+  --color-verde-200: #BBF7D0;
+  --color-verde-300: #86EFAC;
+  --color-verde-400: #4ADE80;
+  --color-verde-500: #22C55E;
+  --color-verde-600: #16A34A;
+  
+  --color-crema-50: #FFFBF5;
+  --color-crema-100: #FEF3E2;
+  --color-crema-200: #FDE9CC;
+  
+  --color-gris-600: #4B5563;
+  --color-gris-700: #374151;
+  --color-gris-800: #1F2937;
+  
+  /* Fuentes */
+  --font-sans: 'Open Sans', sans-serif;
+  --font-display: 'Lato', sans-serif;
+}
+
+/* Estilos base globales */
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #FFFBF5;
+  color: #374151;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  color: #1F2937;
+}
+
+/* Scrollbar personalizada */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FEF3E2;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FDBA74;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #FB923C;
+}
+
+/* Focus visible para accesibilidad */
+*:focus-visible {
+  outline: 3px solid #F97316;
+  outline-offset: 2px;
+}
+
+/* Transiciones suaves globales */
+* {
+  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}

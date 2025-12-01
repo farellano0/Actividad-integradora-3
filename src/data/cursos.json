@@ -1,0 +1,137 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "titulo": "Introducción al mundo digital",
+      "descripcion": "Curso básico para quienes nunca han usado tecnología. Aprende desde cero qué es Internet, cómo funciona un celular y los conceptos fundamentales del mundo digital.",
+      "duracion": "8 horas",
+      "nivel": "Principiante",
+      "modalidad": "Presencial / En línea",
+      "imagen": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400",
+      "temas": [
+        "¿Qué es Internet?",
+        "Partes básicas de un celular",
+        "Navegación web básica",
+        "Correo electrónico"
+      ],
+      "instructor": "Dra. Ana María Ruiz",
+      "precio": "Gratuito"
+    },
+    {
+      "id": 2,
+      "titulo": "WhatsApp para comunicarte con tu familia",
+      "descripcion": "Domina WhatsApp completamente: envía mensajes, fotos, videos, realiza llamadas y videollamadas para mantenerte conectado con tus seres queridos.",
+      "duracion": "6 horas",
+      "nivel": "Principiante",
+      "modalidad": "En línea",
+      "imagen": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400",
+      "temas": [
+        "Instalación y configuración",
+        "Enviar mensajes y fotos",
+        "Crear grupos familiares",
+        "Videollamadas paso a paso"
+      ],
+      "instructor": "Lic. Carlos Mendoza",
+      "precio": "Gratuito"
+    },
+    {
+      "id": 3,
+      "titulo": "Seguridad digital para adultos mayores",
+      "descripcion": "Aprende a protegerte de fraudes, estafas y amenazas en línea. Conoce las mejores prácticas para navegar de forma segura por Internet.",
+      "duracion": "4 horas",
+      "nivel": "Intermedio",
+      "modalidad": "En línea",
+      "imagen": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400",
+      "temas": [
+        "Identificar fraudes comunes",
+        "Contraseñas seguras",
+        "Privacidad en redes sociales",
+        "Compras seguras en línea"
+      ],
+      "instructor": "Ing. Patricia Vega",
+      "precio": "$200 MXN"
+    },
+    {
+      "id": 4,
+      "titulo": "Trámites y servicios en línea",
+      "descripcion": "Realiza pagos de servicios, consulta tu saldo bancario y haz trámites gubernamentales desde la comodidad de tu hogar.",
+      "duracion": "10 horas",
+      "nivel": "Intermedio",
+      "modalidad": "Presencial",
+      "imagen": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400",
+      "temas": [
+        "Banca en línea básica",
+        "Pago de servicios",
+        "Portal del SAT",
+        "Citas en línea"
+      ],
+      "instructor": "Mtro. Eduardo Sánchez",
+      "precio": "$350 MXN"
+    },
+    {
+      "id": 5,
+      "titulo": "Formación de acompañantes digitales",
+      "descripcion": "Curso especializado para docentes, familiares y voluntarios que desean apoyar a adultos mayores en su proceso de alfabetización digital.",
+      "duracion": "20 horas",
+      "nivel": "Avanzado",
+      "modalidad": "Híbrido",
+      "imagen": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400",
+      "temas": [
+        "Pedagogía para adultos mayores",
+        "Técnicas de enseñanza tecnológica",
+        "Manejo de frustración y ansiedad",
+        "Diseño de materiales accesibles"
+      ],
+      "instructor": "Dra. Lucía Fernández",
+      "precio": "$500 MXN"
+    },
+    {
+      "id": 6,
+      "titulo": "Redes sociales: Facebook e Instagram",
+      "descripcion": "Aprende a usar las redes sociales más populares para conectar con familia, amigos y comunidades de tu interés.",
+      "duracion": "8 horas",
+      "nivel": "Principiante",
+      "modalidad": "En línea",
+      "imagen": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=400",
+      "temas": [
+        "Crear tu perfil",
+        "Publicar fotos y estados",
+        "Privacidad y configuración",
+        "Unirse a grupos de interés"
+      ],
+      "instructor": "Lic. María José Torres",
+      "precio": "Gratuito"
+    }
+  ],
+  "recursosExternos": [
+    {
+      "id": 1,
+      "titulo": "INAPAM - Cursos gratuitos",
+      "descripcion": "El Instituto Nacional de las Personas Adultas Mayores ofrece diversos programas de capacitación tecnológica sin costo.",
+      "url": "https://www.gob.mx/inapam",
+      "tipo": "Gobierno"
+    },
+    {
+      "id": 2,
+      "titulo": "Google para Mayores",
+      "descripcion": "Recursos y tutoriales de Google diseñados específicamente para personas de la tercera edad.",
+      "url": "https://grow.google/intl/es-419_mx/",
+      "tipo": "Empresa"
+    },
+    {
+      "id": 3,
+      "titulo": "Fundación Telefónica",
+      "descripcion": "Programas de inclusión digital con enfoque en adultos mayores y comunidades vulnerables.",
+      "url": "https://fundaciontelefonica.mx/",
+      "tipo": "ONG"
+    },
+    {
+      "id": 4,
+      "titulo": "Coursera - Cursos gratuitos",
+      "descripcion": "Plataforma con miles de cursos gratuitos en español sobre tecnología y habilidades digitales.",
+      "url": "https://www.coursera.org/",
+      "tipo": "Plataforma educativa"
+    }
+  ]
+}
+
