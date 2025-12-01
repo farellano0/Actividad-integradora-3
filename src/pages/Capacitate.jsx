@@ -286,7 +286,7 @@ const Capacitate = () => {
                 transition={{ delay: index * 0.1 }}
                 className="bg-white/10 backdrop-blur-sm rounded-xl p-6"
               >
-                <h3 className="font-bold text-lg mb-2 text-naranja-300">{faq.pregunta}</h3>
+                <h3 className="font-bold text-lg mb-2" style={{ color: '#FA771D' }}>{faq.pregunta}</h3>
                 <p className="text-gray-300">{faq.respuesta}</p>
               </motion.div>
             ))}
